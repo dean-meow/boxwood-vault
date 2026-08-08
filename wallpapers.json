@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": "honest-industrial",
+      "display_name": "Honest Industrial",
+      "sort_order": 1,
+      "is_active": true
+    }
+  ],
+  "assets": [
+    {
+      "title": "Sewer Bunny V1",
+      "slug": "sewer-bunny-v1",
+      "collections": ["honest-industrial"],
+      "apparel_type": "HOODIE",
+      "apparel_thumbnail": "/images/apparel/thumb_hoodie.png",
+      "purchase_url": "https://boxwood.me",
+      "base_image_url": "https://res.cloudinary.com/demo/image/upload/sample.jpg",
+      "gravity": "auto"
+    }
+  ]
+}
